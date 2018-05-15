@@ -11,7 +11,7 @@
 /*    */   {
 /* 12 */     setTitle("Кривые фигуры");
 /* 13 */     setDefaultCloseOperation(3);
-/* 14 */     add(new TitlesPanel(98));
+/* 14 */     add(new TitlesPanel(94));
 /* 15 */     setSize(350, 350);
 /* 16 */     setLocationRelativeTo(null);
 /*    */   }
